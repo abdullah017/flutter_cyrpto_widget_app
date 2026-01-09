@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crypto Widget</string>
+    <string name="widget_name">BTC Fiyat Widget</string>
+    <string name="widget_description">Bitcoin fiyatını anlık takip edin</string>
+</resources>
